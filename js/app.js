@@ -6,3 +6,5 @@
  */
 var nombre = "Luis";
 console.log(`Hola, tu nombre es: ${nombre}`);
+
+alert("hola")
