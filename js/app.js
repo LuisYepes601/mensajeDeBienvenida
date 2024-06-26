@@ -7,4 +7,10 @@
 var nombre = "Luis";
 console.log(`Hola, tu nombre es: ${nombre}`);
 
-alert("hola")
+/**
+ * Crea una variable llamada "nombre" y asígnale tu nombre. Luego,
+ *  utiliza alert para mostrar el mensaje "¡Hola, [tu nombre]!".
+ */
+var nombre = "Luis";
+alert("Hola "+ nombre)
+
