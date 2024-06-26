@@ -1,1 +1,2 @@
-Este es un programa que muestra un mensaje de bienvenida por consola
+Este archivo muestra diversos ejemplos basicos de comunicación con la consola. Comunicacion por medio de alertas, uso del promt y uso de condicionales
+
